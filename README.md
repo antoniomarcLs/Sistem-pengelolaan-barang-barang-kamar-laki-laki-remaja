@@ -1,3 +1,6 @@
+# Sistem-pengelolaan-barang-barang-kamar-laki-laki-remaja
+Program conditional statement dengan dasar CRUD yang bertujuan untuk mengelola barang-barang di kamar laki-laki remaja
+
 # Flowchart :
 # Page_1
 ![alt text](https://github.com/antoniomarcLs/Sistem-pengelolaan-barang-barang-kamar-laki-laki-remaja/blob/main/Flowchart/Flowchart.png?raw=true)
@@ -24,5 +27,4 @@ Output pada perintah menghapus barang berdasarkan urutan
 Output saat perintah tidak valid
 ![alt text](https://github.com/antoniomarcLs/Sistem-pengelolaan-barang-barang-kamar-laki-laki-remaja/blob/main/Output/Else.jpg?raw=true)
 
-# Sistem-pengelolaan-barang-barang-kamar-laki-laki-remaja
-Program conditional statement dengan dasar CRUD yang bertujuan untuk mengelola barang-barang di kamar laki-laki remaja
+
